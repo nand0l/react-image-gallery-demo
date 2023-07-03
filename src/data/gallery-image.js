@@ -1,0 +1,32 @@
+export const images = [
+  {
+    original:
+      "https://0-0-webbucket.s3.eu-west-1.amazonaws.com/UploadAlbum/__Errotica-Archives.com_23.06.28.Tora.Reeves.XXX.IMAGESET-FuGLi%5BXC%5D+copy/ErroticaArchive_Tora-Reeves_Tora-Reeves_high_0001.jpg",
+    thumbnail:
+      "https://0-0-webbucket.s3.eu-west-1.amazonaws.com/UploadAlbum/__Errotica-Archives.com_23.06.28.Tora.Reeves.XXX.IMAGESET-FuGLi%5BXC%5D+copy/ErroticaArchive_Tora-Reeves_Tora-Reeves_high_0001-1400.jpg",
+  },
+  {
+    original:
+      "https://0-0-webbucket.s3.eu-west-1.amazonaws.com/UploadAlbum/__Errotica-Archives.com_23.06.28.Tora.Reeves.XXX.IMAGESET-FuGLi%5BXC%5D+copy/ErroticaArchive_Tora-Reeves_Tora-Reeves_high_0002.jpg",
+    thumbnail:
+      "https://0-0-webbucket.s3.eu-west-1.amazonaws.com/UploadAlbum/__Errotica-Archives.com_23.06.28.Tora.Reeves.XXX.IMAGESET-FuGLi%5BXC%5D+copy/ErroticaArchive_Tora-Reeves_Tora-Reeves_high_0002-1400.jpg",
+  },
+  {
+    original:
+      "https://0-0-webbucket.s3.eu-west-1.amazonaws.com/UploadAlbum/__Errotica-Archives.com_23.06.28.Tora.Reeves.XXX.IMAGESET-FuGLi%5BXC%5D+copy/ErroticaArchive_Tora-Reeves_Tora-Reeves_high_0003.jpg",
+    thumbnail:
+      "https://0-0-webbucket.s3.eu-west-1.amazonaws.com/UploadAlbum/__Errotica-Archives.com_23.06.28.Tora.Reeves.XXX.IMAGESET-FuGLi%5BXC%5D+copy/ErroticaArchive_Tora-Reeves_Tora-Reeves_high_0003-1400.jpg",
+  },
+  {
+    original:
+      "https://0-0-webbucket.s3.eu-west-1.amazonaws.com/UploadAlbum/__Errotica-Archives.com_23.06.28.Tora.Reeves.XXX.IMAGESET-FuGLi%5BXC%5D+copy/ErroticaArchive_Tora-Reeves_Tora-Reeves_high_0004.jpg",
+    thumbnail:
+      "https://0-0-webbucket.s3.eu-west-1.amazonaws.com/UploadAlbum/__Errotica-Archives.com_23.06.28.Tora.Reeves.XXX.IMAGESET-FuGLi%5BXC%5D+copy/ErroticaArchive_Tora-Reeves_Tora-Reeves_high_0004-1400.jpg",
+  },
+  {
+    original:
+      "https://0-0-webbucket.s3.eu-west-1.amazonaws.com/UploadAlbum/__Errotica-Archives.com_23.06.28.Tora.Reeves.XXX.IMAGESET-FuGLi%5BXC%5D+copy/ErroticaArchive_Tora-Reeves_Tora-Reeves_high_0005.jpg",
+    thumbnail:
+      "https://0-0-webbucket.s3.eu-west-1.amazonaws.com/UploadAlbum/__Errotica-Archives.com_23.06.28.Tora.Reeves.XXX.IMAGESET-FuGLi%5BXC%5D+copy/ErroticaArchive_Tora-Reeves_Tora-Reeves_high_0005-1400.jpg",
+  },
+];
