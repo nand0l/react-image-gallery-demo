@@ -1,5 +1,5 @@
 import ImageGallery from 'react-image-gallery';
-import { images } from '../data/Met-Art-AmeliaGin-WildStocking(126NudePhotos)';
+import { images } from "../data/gallery-image";
 
 function App() {
   return (
